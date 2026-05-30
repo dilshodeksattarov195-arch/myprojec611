@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercender",
+        "uuid": 3852966,
+        "checksum": "wwkvgp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
